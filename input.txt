@@ -1,0 +1,39 @@
+# Ores & Minerals
+Iron Ore - Buy: 10 Sell: 10
+Iron Block - Buy: 10 Sell: 10
+Gold Ore - Buy: 10 Sell: 10
+Gold Block - Buy: 10 Sell: 10
+Diamond Ore - Buy: 10 Sell: 10
+Diamond Block - Buy: 10 Sell: 10
+Coal Ore - Buy: 10 Sell: 10
+Coal Block - Buy: 10 Sell: 10
+Redstone Ore - Buy: 10 Sell: 10
+Redstone Block - Buy: 10 Sell: 10
+Emerald Ore - Buy: 10 Sell: 10
+Lapis Lazuli Ore - Buy: 10 Sell: 10
+Lapis Lazuli Block - Buy: 10 Sell: 10
+Nether Quartz Ore - Buy: 10 Sell: 10
+Ancient Debris - Buy: 10 Sell: 10
+Obsidian - Buy: 10 Sell: 10
+Netherite Ingot - Buy: 10 Sell: 10
+
+# Woods
+Oak Log - Buy: 10 Sell: 10
+Spruce Log - Buy: 10 Sell: 10
+Birch Log - Buy: 10 Sell: 10
+Acacia Log - Buy: 10 Sell: 10
+Dark Oak Log - Buy: 10 Sell: 10
+Jungle Log - Buy: 10 Sell: 10
+
+# Food Items
+Golden Apple - Buy: 100 Sell: 200
+Chicken - Buy: 20 Sell: 50
+Steak - Buy: 10 Sell: 10
+Porkchop - Buy: 10 Sell: 10
+Apple - Buy: 10 Sell: 10
+Bread - Buy: 10 Sell: 10
+Carrot - Buy: 10 Sell: 10
+Potato - Buy: 10 Sell: 10
+Pumpkin - Buy: 10 Sell: 10
+Melon - Buy: 10 Sell: 10
+

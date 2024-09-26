@@ -1,0 +1,132 @@
+IRON_ORE {
+    sellingValue: 20
+    buyValue: 15
+},
+IRON_BLOCK {
+    sellingValue: 20
+    buyValue: 15
+},
+GOLD_ORE {
+    sellingValue: 20
+    buyValue: 15
+},
+GOLD_BLOCK {
+    sellingValue: 20
+    buyValue: 15
+},
+DIAMOND_ORE {
+    sellingValue: 20
+    buyValue: 15
+},
+DIAMOND_BLOCK {
+    sellingValue: 20
+    buyValue: 15
+},
+COAL_ORE {
+    sellingValue: 20
+    buyValue: 15
+},
+COAL_BLOCK {
+    sellingValue: 20
+    buyValue: 15
+},
+REDSTONE_ORE {
+    sellingValue: 20
+    buyValue: 15
+},
+REDSTONE_BLOCK {
+    sellingValue: 20
+    buyValue: 15
+},
+EMERALD_ORE {
+    sellingValue: 20
+    buyValue: 15
+},
+LAPIS_LAZULI_ORE {
+    sellingValue: 20
+    buyValue: 15
+},
+LAPIS_LAZULI_BLOCK {
+    sellingValue: 20
+    buyValue: 15
+},
+NETHER_QUARTZ_ORE {
+    sellingValue: 20
+    buyValue: 15
+},
+ANCIENT_DEBRIS {
+    sellingValue: 20
+    buyValue: 15
+},
+OBSIDIAN {
+    sellingValue: 20
+    buyValue: 15
+},
+NETHERITE_INGOT {
+    sellingValue: 20
+    buyValue: 15
+},
+OAK_LOG {
+    sellingValue: 20
+    buyValue: 15
+},
+SPRUCE_LOG {
+    sellingValue: 20
+    buyValue: 15
+},
+BIRCH_LOG {
+    sellingValue: 20
+    buyValue: 15
+},
+ACACIA_LOG {
+    sellingValue: 20
+    buyValue: 15
+},
+DARK_OAK_LOG {
+    sellingValue: 20
+    buyValue: 15
+},
+JUNGLE_LOG {
+    sellingValue: 20
+    buyValue: 15
+},
+GOLDEN_APPLE {
+    sellingValue: 400
+    buyValue: 150
+},
+CHICKEN {
+    sellingValue: 100
+    buyValue: 30
+},
+STEAK {
+    sellingValue: 20
+    buyValue: 15
+},
+PORKCHOP {
+    sellingValue: 20
+    buyValue: 15
+},
+APPLE {
+    sellingValue: 20
+    buyValue: 15
+},
+BREAD {
+    sellingValue: 20
+    buyValue: 15
+},
+CARROT {
+    sellingValue: 20
+    buyValue: 15
+},
+POTATO {
+    sellingValue: 20
+    buyValue: 15
+},
+PUMPKIN {
+    sellingValue: 20
+    buyValue: 15
+},
+MELON {
+    sellingValue: 20
+    buyValue: 15
+}
