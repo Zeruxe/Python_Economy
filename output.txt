@@ -1,132 +1,132 @@
 IRON_ORE {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 16
+    buyValue: 7
 },
 IRON_BLOCK {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 GOLD_ORE {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 GOLD_BLOCK {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 DIAMOND_ORE {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 DIAMOND_BLOCK {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 COAL_ORE {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 COAL_BLOCK {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 REDSTONE_ORE {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 REDSTONE_BLOCK {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 EMERALD_ORE {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 LAPIS_LAZULI_ORE {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 LAPIS_LAZULI_BLOCK {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 NETHER_QUARTZ_ORE {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 ANCIENT_DEBRIS {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 OBSIDIAN {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 NETHERITE_INGOT {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 OAK_LOG {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 SPRUCE_LOG {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 BIRCH_LOG {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 ACACIA_LOG {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 DARK_OAK_LOG {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 JUNGLE_LOG {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 GOLDEN_APPLE {
-    sellingValue: 400
-    buyValue: 150
+    sellingValue: 240
+    buyValue: 50
 },
 CHICKEN {
-    sellingValue: 100
-    buyValue: 30
+    sellingValue: 60
+    buyValue: 10
 },
 STEAK {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 PORKCHOP {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 APPLE {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 BREAD {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 CARROT {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 POTATO {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 PUMPKIN {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 },
 MELON {
-    sellingValue: 20
-    buyValue: 15
+    sellingValue: 12
+    buyValue: 5
 }

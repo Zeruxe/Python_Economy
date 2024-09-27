@@ -1,5 +1,5 @@
 # Ores & Minerals
-Iron Ore - Buy: 10 Sell: 10
+Iron Ore - Buy: 13 Sell: 13
 Iron Block - Buy: 10 Sell: 10
 Gold Ore - Buy: 10 Sell: 10
 Gold Block - Buy: 10 Sell: 10
